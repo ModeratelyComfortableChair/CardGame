@@ -4,7 +4,9 @@ cardgame\Card$Suit.class
 cardgame\Card$Number.class
 cardgame\Hand.class
 gamemodes\GameMode.class
+gamemodes\ThreeOfAKind$1.class
 gamemodes\ThreeOfAKind.class
 cardgame\Deck$Suit.class
 cardgame\Deck.class
+gamemodes\ThreeOfAKind$CardChoiceState.class
 cardgame\Card.class
